@@ -1,0 +1,1 @@
+In 1989, EMC experiment found that the quark spin contributes little to the proton spin. The candidates for the “missing” spin are the quark and gluon orbital angular momenta and gluon helicity.
